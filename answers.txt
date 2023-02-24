@@ -1,0 +1,2 @@
+What is a remote repository?
+A remothe repository is where your project is stored on some type of server such as the internet and anyone on that server can access that project.
